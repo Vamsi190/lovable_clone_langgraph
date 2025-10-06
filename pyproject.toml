@@ -1,0 +1,16 @@
+[project]
+name = "lovable-clone-langgraph"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "fastapi>=0.118.0",
+    "groq>=0.32.0",
+    "langchain>=0.3.27",
+    "langchain-community>=0.3.30",
+    "langchain-groq>=0.3.8",
+    "langgraph>=0.6.8",
+    "pip>=25.2",
+    "pydantic>=2.11.10",
+]
